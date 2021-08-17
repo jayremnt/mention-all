@@ -1,0 +1,11 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    height: auto;
+    width: 400px;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: #8c35f1;
+}
+
